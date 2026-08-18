@@ -1,0 +1,6 @@
+{
+  "name": "Púlpito - Auxiliar de Pregação & Bíblia",
+  "description": "Aplicativo para organização e ministração de pregações com Bíblia integrada offline e acompanhamento em tempo real de versículos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
